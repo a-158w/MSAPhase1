@@ -1,8 +1,8 @@
 .header {
-    color: white;
+    color: rgb(113, 252, 0);
     display: flex;
     justify-content: center;
-    padding-top: 30px;
+    padding-top: 70px;
   }
 .image {
     padding-left: 15px;
@@ -10,8 +10,8 @@
     max-width: 100%;
 }
 .headerText{
-  font-size: 80px;
+  font-size: 180px;
   margin: auto 0;
   font-weight: bold;
-  color: #eeeeee;
+  color: #a79797;
 }
